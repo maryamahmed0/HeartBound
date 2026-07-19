@@ -237,9 +237,11 @@ As **Anubis**, you must descend into the unstable Duat, uncover forgotten truths
 
 Developed during **Victories Game Jam**
 
--Maryam Ahmed
--Nour Abozeid
--Salma Mahmoud
+Maryam Ahmed
+
+Nour Abozeid
+
+Salma Mahmoud
 
 ---
 
