@@ -12,9 +12,9 @@ Every run begins with a different weapon. Every blessing changes your destiny.
 
 ---
 
-## 🏆 Victorys Game Jam
+## 🏆 IEEE Victoiess Game Jam
 
-**HEARTBOUND** was developed during the **Victorys Game Jam**, built around the jam theme:
+**HEARTBOUND** was developed during the **IEEE Victories Game Jam**, built around the jam theme:
 
 > **Endless Origins**
 
@@ -235,7 +235,7 @@ As **Anubis**, you must descend into the unstable Duat, uncover forgotten truths
 
 # 👥 Team
 
-Developed during **Victories Game Jam**
+Developed during **IEEE Victories Game Jam**
 
 Maryam Ahmed
 
@@ -247,7 +247,7 @@ Salma Mahmoud
 
 # 📄 License
 
-This project was created during the **Victoies Game Jam** and is shared for educational and portfolio purposes only.
+This project was created during the **IEEE Victoies Game Jam** and is shared for educational and portfolio purposes only.
 
 ---
 
