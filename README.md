@@ -1,10 +1,6 @@
 # ❤️ HEARTBOUND
 
 <p align="center">
-  <img src="Docs/Images/Banner.png" width="100%">
-</p>
-
-<p align="center">
   <strong>A 2D Roguelite inspired by Egyptian Mythology.</strong>
 </p>
 
